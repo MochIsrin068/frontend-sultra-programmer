@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    // font-family: "Poppins", sans-serif;
+    font-family: Helvetica,
+}
+
+*:focus{
+    outline: none;
+}
+
+input{
+    border: none;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+}
